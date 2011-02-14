@@ -10,41 +10,41 @@
 		{
 			"name": "James Brantly",
 			"email": "james@jbrantly.com",
-			"web": "http://www.jbrantly.com" 
-		} 
+			"web": "http://www.jbrantly.com"
+		}
 	],
 	"contributors": [
 		{
 			"name": "James Brantly",
 			"email": "james@jbrantly.com",
-			"web": "http://www.jbrantly.com" 
-		} 
+			"web": "http://www.jbrantly.com"
+		}
 	],
 	"bugs": "http://github.com/jbrantly/yabble/issues",
 	"licenses": [
 		{
 			"type": "MIT license",
-			"url": "http://www.opensource.org/licenses/mit-license.php" 
-		} 
+			"url": "http://www.opensource.org/licenses/mit-license.php"
+		}
 	],
 	"repositories": [
 		{
 			"type": "git",
-			"url": "http://github.com/jbrantly/yabble.git" 
-		} 
+			"url": "http://github.com/jbrantly/yabble.git"
+		}
 	],
 	"dependencies": {},
 	"implements": [
-		"CommonJS/Modules/1.0", 
-		"CommonJS/Modules/1.1.1", 
-		"CommonJS/Modules/Async/A", 
-		"CommonJS/Modules/Transport/C", 
+		"CommonJS/Modules/1.0",
+		"CommonJS/Modules/1.1.1",
+		"CommonJS/Modules/Async/A",
+		"CommonJS/Modules/Transport/C",
 		"CommonJS/Modules/Transport/D"
 	],
 	"directories": {
        "lib": "./lib",
        "bin": "local/binaries",
-       "jars": "java" 
+       "jars": "java"
 	},
 	"main": "./lib/yabble"
 }
